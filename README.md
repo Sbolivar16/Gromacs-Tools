@@ -1,3 +1,12 @@
+<div align="center">
+
+[![Colab Trajectory](https://img.shields.io/badge/Colab-Trajectory_Analysis-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Sbolivar16/Gromacs-Tools/blob/main/gromacs_sttol.ipynb)
+[![Colab MMPBSA](https://img.shields.io/badge/Colab-g__MMPBSA_Analysis-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/Sbolivar16/Gromacs-Tools/blob/main/g_MMPBSA_Analysis.ipynb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3772--7604-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3772-7604)
+
+</div>
+
 # Gromacs-Tools: Molecular Dynamics Simulations Analysis and Visualization Tools
 
 ## Introduction
@@ -51,7 +60,8 @@ git clone https://github.com/Sbolivar16/Gromacs-Tools.git
 
 To quickly open the provided Jupyter notebook in **Google Colab** and start analyzing your GROMACS data, use the following link:
 
-[Open in Colab](https://colab.research.google.com/github/Sbolivar16/Gromacs-Tools/blob/main/gromacs_analysis.ipynb)
+- **Trajectory Analysis (`gromacs_sttol.ipynb`)**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/Gromacs-Tools/blob/main/gromacs_sttol.ipynb)
+- **MM/PBSA Energy Decomposition (`g_MMPBSA_Analysis.ipynb`)**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/Gromacs-Tools/blob/main/g_MMPBSA_Analysis.ipynb)
 
 ## Conclusion
 
